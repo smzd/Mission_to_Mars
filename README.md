@@ -1,4 +1,4 @@
-                                                      ##Mission to Mars
+                                                      #Mission to Mars
 
 In Mission to Mars we created a web app to scrape mars data and view it in a web page.
 
